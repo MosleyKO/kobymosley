@@ -1,6 +1,5 @@
-import { nav } from "../_lib/content";
-import { Logo } from "./Logo";
 import { Photo } from "./Photo";
+import { SiteHeader } from "./SiteHeader";
 
 export function Hero() {
   return (
@@ -15,16 +14,7 @@ export function Hero() {
       <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/20 to-transparent" />
       <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-black/50" />
 
-      <header className="relative z-10 flex items-center justify-between px-6 py-6 md:px-10">
-        <Logo />
-        <nav className="hidden gap-9 lg:flex">
-          {nav.map((n) => (
-            <a key={n.href} href={n.href} className="eyebrow text-foreground/85 transition-colors hover:text-accent">
-              {n.label}
-            </a>
-          ))}
-        </nav>
-      </header>
+      <SiteHeader />
 
       <div className="relative z-10 px-6 pt-20 md:px-10 md:pl-[8vw] md:pt-28">
         <h1 className="font-serif text-6xl leading-[0.95] md:text-8xl">

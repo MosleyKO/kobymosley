@@ -4,11 +4,11 @@ export type Tone =
   | "peaks" | "lake" | "glass" | "dusk" | "stone" | "ember";
 
 export const nav = [
-  { label: "The Pursuit", href: "#pursuit" },
-  { label: "Stories", href: "#stories" },
-  { label: "Field Notes", href: "#field-notes" },
-  { label: "Photography", href: "#photography" },
-  { label: "Connect", href: "#connect" },
+  { label: "The Pursuit", href: "/#pursuit" },
+  { label: "Stories", href: "/#stories" },
+  { label: "Field Notes", href: "/#field-notes" },
+  { label: "Photography", href: "/#photography" },
+  { label: "Connect", href: "/#connect" },
 ];
 
 export const values = [
@@ -24,11 +24,11 @@ export const caseStudies: { name: string; sub?: string; blurb: string; tone: Ton
   // Photo: Hunt Plan (2).png from Drive. TODO: swap in a planner screenshot with a hunt open when available.
   { name: "HUNT PLAN", sub: "Founder", blurb: "I built Hunt Plan from the ground up to help hunters analyze draw odds, plan their seasons, and get field advice from an AI built for hunters.", tone: "phone", href: "#", image: "/images/huntplan.webp", position: "75% 40%" },
   // Photo: Cole West.png from Drive (house at dusk, no lettering).
-  { name: "COLE WEST", sub: "Marketing Manager", blurb: "I ran email, digital, and billboard campaigns that connected marketing and sales and helped buyers find move-in-ready homes.", tone: "ember", href: "#", image: "/images/colewest.webp", position: "40% 50%" },
+  { name: "COLE WEST", sub: "Marketing Manager", blurb: "I ran email, digital, and billboard campaigns that connected marketing and sales and helped buyers find move-in-ready homes.", tone: "ember", href: "/work/cole-west", image: "/images/colewest.webp", position: "40% 50%" },
   // Photo: "Aries booklet and card on limestone.png" from Drive (1536x1024, native). An installed-register photo can replace it later.
   { name: "ARIES DESIGN CO.", sub: "Brand Identity & Sales Materials", blurb: "I built Aries’ brand identity and sales materials to position its custom architectural air registers for a national market.", tone: "glass", href: "#", image: "/images/aries.webp", position: "50% 50%" },
   // Photo: Blue Bolt.png from Drive (owner with the logo van). "Blue Bolt (2).png" is a site screenshot if we want that instead.
-  { name: "BLUEBOLT ELECTRIC", sub: "Brand Identity & Web Design", blurb: "I created the brand and built the website to help an electrical and permanent lighting business win new jobs.", tone: "scope", href: "#", image: "/images/bluebolt.webp", position: "50% 25%" },
+  { name: "BLUEBOLT ELECTRIC", sub: "Brand Identity & Web Design", blurb: "I created the brand and built the website to help an electrical and permanent lighting business win new jobs.", tone: "scope", href: "/work/bluebolt-electric", image: "/images/bluebolt.webp", position: "50% 25%" },
   // Hero section of the live site (mcguireplumbingllc.com), captured 2026-11-12.
   { name: "McGUIRE PLUMBING", sub: "Brand Identity & Web Design", blurb: "I designed the brand and built the website around Seth’s story as a veteran and his old-school approach to plumbing.", tone: "boot", href: "#", image: "/images/mcguire.webp", position: "50% 50%" },
 ];
