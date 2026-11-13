@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { caseStudies } from "../_lib/content";
 import { Arrow } from "./Arrow";
 import { Photo } from "./Photo";
@@ -9,7 +10,7 @@ export function CaseStudies() {
       <SectionHead title="Stories I've helped tell" link="View all case studies" />
       <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {caseStudies.map((c) => (
-          <a
+          <Link
             key={c.name}
             href={c.href}
             className="group relative flex min-h-72 flex-col justify-end overflow-hidden border border-line p-5"
@@ -36,7 +37,7 @@ export function CaseStudies() {
                 View case study <Arrow />
               </span>
             </div>
-          </a>
+          </Link>
         ))}
       </div>
     </section>
