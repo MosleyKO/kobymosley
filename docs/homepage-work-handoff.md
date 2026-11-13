@@ -4,11 +4,11 @@ Update the existing **Stories I've Helped Tell** row on the homepage. Keep the f
 
 | Order | Project | Suggested card copy | Cover |
 | --- | --- | --- | --- |
-| 1 | Dixie Technical College | I design web pages, create recruitment campaigns, and tell student stories that help people picture what they could learn at Dixie Tech. | /images/portfolio/dixie-machining.webp. Frame slightly left of center to keep the student's face and part of the mill. Put the dark gradient over the lower portion. |
-| 2 | Hunt Plan | I built a hunt planner that brings maps, unit research, and draw information together. | Awaiting a planner screenshot with a hunt open. |
+| 1 | Dixie Technical College (Marketing & Web Design Lead) | I redesign program pages, create recruitment campaigns, and photograph students in training so prospective students can see what they’ll learn and how to get started. | /images/portfolio/dixie-machining.webp. Frame slightly left of center to keep the student's face and part of the mill. Put the dark gradient over the lower portion. |
+| 2 | Hunt Plan (Founder) | I built Hunt Plan to help hunters compare draw odds, research units on a map, and decide where to apply. | Awaiting a planner screenshot with a hunt open. |
 | 3 | Cole West (Marketing Manager) | I connected marketing and sales through campaigns that helped buyers discover new communities and find move-in-ready homes. | /images/portfolio/cole-west-billboard.webp. Check whether the billboard lettering competes with the card title. The original export would allow more crop flexibility. |
-| 4 | Aries Design Co. | Branding and sales materials for custom architectural air registers. | Awaiting an installed-register photo. |
-| 5 | BlueBolt Electric + McGuire Plumbing LLC | Two brand identities and websites for two brothers starting separate businesses. | /images/portfolio/bluebolt-homepage.webp shows one half. Awaiting McGuire artwork or a matching screenshot for the paired cover. |
+| 4 | Aries Design Co. (Brand Identity & Sales Materials) | I developed the brand and designed a sales booklet to show builders and interior designers how custom air registers can fit into a room. | Awaiting an installed-register photo. |
+| 5 | BlueBolt Electric + McGuire Plumbing LLC (Brand Identity & Web Design) | I designed logos and built websites for two brothers starting separate businesses, giving each a distinct identity and an easy way for customers to reach them. | /images/portfolio/bluebolt-homepage.webp shows one half. Awaiting McGuire artwork or a matching screenshot for the paired cover. |
 
 The image paths in the table are intended destinations. The source images will be provided separately. Use the Dixie Tech and Cole West covers once received. Add links when there is a real destination.
 
