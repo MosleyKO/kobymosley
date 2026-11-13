@@ -4,8 +4,8 @@ Implement Cole West first, then BlueBolt. Start from the current homepage and li
 
 ## Design references
 
-- [Cole West mockup](https://chatgpt.com/library?file_id=libfile_75687fadeebc8191b4b8c203e28be137&account_id=personal)
-- [BlueBolt mockup](https://chatgpt.com/library?file_id=libfile_56b26f7920b48191ab0a3422af84d1f9&account_id=personal)
+![Cole West mockup](mockups/cole-west-case-study.webp)
+![BlueBolt mockup](mockups/bluebolt-case-study.webp)
 
 ## Cole West
 
