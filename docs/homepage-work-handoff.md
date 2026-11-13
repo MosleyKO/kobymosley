@@ -6,7 +6,7 @@ Update the existing **Stories I've Helped Tell** row on the homepage. Keep the f
 | --- | --- | --- | --- |
 | 1 | Dixie Technical College | I design web pages, create recruitment campaigns, and tell student stories that help people picture what they could learn at Dixie Tech. | /images/portfolio/dixie-machining.webp. Frame slightly left of center to keep the student's face and part of the mill. Put the dark gradient over the lower portion. |
 | 2 | Hunt Plan | I built a hunt planner that brings maps, unit research, and draw information together. | Awaiting a planner screenshot with a hunt open. |
-| 3 | Cole West | Campaign creative for helping families picture a place they'll call home. | /images/portfolio/cole-west-billboard.webp. Check whether the billboard lettering competes with the card title. The original export would allow more crop flexibility. |
+| 3 | Cole West (Marketing Manager) | I connected marketing and sales through campaigns that helped buyers discover new communities and find move-in-ready homes. | /images/portfolio/cole-west-billboard.webp. Check whether the billboard lettering competes with the card title. The original export would allow more crop flexibility. |
 | 4 | Aries Design Co. | Branding and sales materials for custom architectural air registers. | Awaiting an installed-register photo. |
 | 5 | BlueBolt Electric + McGuire Plumbing LLC | Two brand identities and websites for two brothers starting separate businesses. | /images/portfolio/bluebolt-homepage.webp shows one half. Awaiting McGuire artwork or a matching screenshot for the paired cover. |
 
