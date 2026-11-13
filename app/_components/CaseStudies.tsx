@@ -29,10 +29,10 @@ export function CaseStudies() {
             <div className="relative flex flex-col gap-3">
               <div className="font-serif text-2xl leading-none tracking-wide">
                 {c.name}
-                {c.sub && <span className="eyebrow mt-1 block text-[0.5rem] text-muted">{c.sub}</span>}
+                {c.sub && <span className="eyebrow mt-2 block text-[0.68rem] text-muted">{c.sub}</span>}
               </div>
-              <p className="text-[0.78rem] leading-5 text-foreground/85">{c.blurb}</p>
-              <span className="eyebrow inline-flex items-center gap-2 text-[0.55rem]">
+              <p className="text-[0.9375rem] leading-[1.45] text-foreground/90">{c.blurb}</p>
+              <span className="eyebrow inline-flex items-center gap-2 text-[0.64rem]">
                 View case study <Arrow />
               </span>
             </div>
